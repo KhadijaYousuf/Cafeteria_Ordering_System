@@ -1,0 +1,11 @@
+F:\Assignments\2nd Semester\OOP\LAB WORK\Cafeteria Ordering System\Cafeteria Ordering System\bin\Release\Cafeteria Ordering System.exe.config
+F:\Assignments\2nd Semester\OOP\LAB WORK\Cafeteria Ordering System\Cafeteria Ordering System\bin\Release\Cafeteria Ordering System.exe
+F:\Assignments\2nd Semester\OOP\LAB WORK\Cafeteria Ordering System\Cafeteria Ordering System\bin\Release\Cafeteria Ordering System.pdb
+F:\Assignments\2nd Semester\OOP\LAB WORK\Cafeteria Ordering System\Cafeteria Ordering System\obj\Release\Cafeteria_Ordering_System.Form1.resources
+F:\Assignments\2nd Semester\OOP\LAB WORK\Cafeteria Ordering System\Cafeteria Ordering System\obj\Release\Cafeteria_Ordering_System.Form2.resources
+F:\Assignments\2nd Semester\OOP\LAB WORK\Cafeteria Ordering System\Cafeteria Ordering System\obj\Release\Cafeteria_Ordering_System.Menu.resources
+F:\Assignments\2nd Semester\OOP\LAB WORK\Cafeteria Ordering System\Cafeteria Ordering System\obj\Release\Cafeteria_Ordering_System.Properties.Resources.resources
+F:\Assignments\2nd Semester\OOP\LAB WORK\Cafeteria Ordering System\Cafeteria Ordering System\obj\Release\Cafeteria_Ordering_System.RegistrationForm.resources
+F:\Assignments\2nd Semester\OOP\LAB WORK\Cafeteria Ordering System\Cafeteria Ordering System\obj\Release\Cafeteria Ordering System.csproj.GenerateResource.Cache
+F:\Assignments\2nd Semester\OOP\LAB WORK\Cafeteria Ordering System\Cafeteria Ordering System\obj\Release\Cafeteria Ordering System.exe
+F:\Assignments\2nd Semester\OOP\LAB WORK\Cafeteria Ordering System\Cafeteria Ordering System\obj\Release\Cafeteria Ordering System.pdb

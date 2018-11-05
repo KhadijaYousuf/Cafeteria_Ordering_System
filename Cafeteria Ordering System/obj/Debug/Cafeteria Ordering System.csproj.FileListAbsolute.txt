@@ -1,0 +1,27 @@
+F:\Assignments\2nd Semester\OOP\LAB WORK\Cafeteria Ordering System\Cafeteria Ordering System\bin\Debug\Cafeteria Ordering System.exe.config
+F:\Assignments\2nd Semester\OOP\LAB WORK\Cafeteria Ordering System\Cafeteria Ordering System\bin\Debug\Cafeteria Ordering System.exe
+F:\Assignments\2nd Semester\OOP\LAB WORK\Cafeteria Ordering System\Cafeteria Ordering System\bin\Debug\Cafeteria Ordering System.pdb
+F:\Assignments\2nd Semester\OOP\LAB WORK\Cafeteria Ordering System\Cafeteria Ordering System\obj\Debug\Cafeteria Ordering System.csprojResolveAssemblyReference.cache
+F:\Assignments\2nd Semester\OOP\LAB WORK\Cafeteria Ordering System\Cafeteria Ordering System\obj\Debug\Cafeteria_Ordering_System.Form1.resources
+F:\Assignments\2nd Semester\OOP\LAB WORK\Cafeteria Ordering System\Cafeteria Ordering System\obj\Debug\Cafeteria_Ordering_System.Menu.resources
+F:\Assignments\2nd Semester\OOP\LAB WORK\Cafeteria Ordering System\Cafeteria Ordering System\obj\Debug\Cafeteria_Ordering_System.Properties.Resources.resources
+F:\Assignments\2nd Semester\OOP\LAB WORK\Cafeteria Ordering System\Cafeteria Ordering System\obj\Debug\Cafeteria_Ordering_System.RegistrationForm.resources
+F:\Assignments\2nd Semester\OOP\LAB WORK\Cafeteria Ordering System\Cafeteria Ordering System\obj\Debug\Cafeteria Ordering System.csproj.GenerateResource.Cache
+F:\Assignments\2nd Semester\OOP\LAB WORK\Cafeteria Ordering System\Cafeteria Ordering System\obj\Debug\Cafeteria Ordering System.exe
+F:\Assignments\2nd Semester\OOP\LAB WORK\Cafeteria Ordering System\Cafeteria Ordering System\obj\Debug\Cafeteria Ordering System.pdb
+F:\Assignments\2nd Semester\OOP\LAB WORK\Cafeteria Ordering System\Cafeteria Ordering System\obj\Debug\Cafeteria_Ordering_System.HowToUse.resources
+C:\Users\ACER\Desktop\Cafeteria Ordering System\Cafeteria Ordering System\bin\Debug\Cafeteria Ordering System.exe.config
+C:\Users\ACER\Desktop\Cafeteria Ordering System\Cafeteria Ordering System\obj\Debug\Cafeteria Ordering System.exe
+C:\Users\ACER\Desktop\Cafeteria Ordering System\Cafeteria Ordering System\obj\Debug\Cafeteria Ordering System.pdb
+G:\Software\Visual Studio 2017\Projects\Cafeteria Ordering System\Cafeteria Ordering System\bin\Debug\Cafeteria Ordering System.exe.config
+G:\Software\Visual Studio 2017\Projects\Cafeteria Ordering System\Cafeteria Ordering System\obj\Debug\Cafeteria Ordering System.exe
+G:\Software\Visual Studio 2017\Projects\Cafeteria Ordering System\Cafeteria Ordering System\obj\Debug\Cafeteria Ordering System.pdb
+G:\Software\Visual Studio 2017\Projects\Cafeteria Ordering System\Cafeteria Ordering System\bin\Debug\Cafeteria Ordering System.exe
+G:\Software\Visual Studio 2017\Projects\Cafeteria Ordering System\Cafeteria Ordering System\bin\Debug\Cafeteria Ordering System.pdb
+G:\Software\Visual Studio 2017\Projects\Cafeteria Ordering System\Cafeteria Ordering System\obj\Debug\Cafeteria Ordering System.csprojResolveAssemblyReference.cache
+G:\Software\Visual Studio 2017\Projects\Cafeteria Ordering System\Cafeteria Ordering System\obj\Debug\Cafeteria_Ordering_System.Form1.resources
+G:\Software\Visual Studio 2017\Projects\Cafeteria Ordering System\Cafeteria Ordering System\obj\Debug\Cafeteria_Ordering_System.HowToUse.resources
+G:\Software\Visual Studio 2017\Projects\Cafeteria Ordering System\Cafeteria Ordering System\obj\Debug\Cafeteria_Ordering_System.Menu.resources
+G:\Software\Visual Studio 2017\Projects\Cafeteria Ordering System\Cafeteria Ordering System\obj\Debug\Cafeteria_Ordering_System.Properties.Resources.resources
+G:\Software\Visual Studio 2017\Projects\Cafeteria Ordering System\Cafeteria Ordering System\obj\Debug\Cafeteria_Ordering_System.RegistrationForm.resources
+G:\Software\Visual Studio 2017\Projects\Cafeteria Ordering System\Cafeteria Ordering System\obj\Debug\Cafeteria Ordering System.csproj.GenerateResource.Cache
